@@ -10,7 +10,7 @@ This repository contains the source files for an interactive portfolio website. 
 
 ## Demo
 
-Open `index.html` in a browser to preview the site locally.
+https://raghavendradev.netlify.app/
 
 ## Features
 
